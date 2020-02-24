@@ -1,4 +1,4 @@
-# c-unit-test Practice 1: Simple Calculator Project Test
+# c++-unit-test Practice 1: Simple Calculator Project Test
 directory: Calculator/Calculator 
 description: simple calculator source written by c++
 There are five functions(add, sub, div, mult, factorial)
@@ -12,7 +12,7 @@ function result test description
 - cal.mult: int+int(positive or negative), float+float(positive or negative)  
 - cal.factorial: 3, 1, 0, -1
 
-# c-unit-test Practice 2: Simple User ManageMetn Project Test
+# c++-unit-test Practice 2: Simple User ManageMetn Project Test
 directory: ManageMentApplication/ManageMentApplication  
 description: simple User ManageMent(register, login, admin, etc) source written by c++
 
