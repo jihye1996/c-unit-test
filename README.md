@@ -13,11 +13,11 @@ function result test description
 - cal.factorial: 3, 1, 0, -1
 
 # c++-unit-test Practice 2: Simple User ManageMetn Project Test
-directory: ManageMentApplication/ManageMentApplication  
+directory: [ManageMentApplication/ManageMentApplication](ManageMentApplication/ManageMentApplication)  
 description: simple User ManageMent(register, login, admin, etc) source written by c++
 
 ### Test Code
-directory: ManageMentApplication/UnitTest
+directory: [ManageMentApplication/UnitTest](ManageMentApplication/UnitTest) 
 function result test description
 - CheckPermission(): check user authority, if user authority is "W", "RW", return true  
 - CheckChangedDisk(): check the number of disk additions, if the number < 3, return true
