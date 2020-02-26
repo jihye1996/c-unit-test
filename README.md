@@ -6,11 +6,11 @@ There are five functions(add, sub, div, mult, factorial)
 ### Test Code
 directory: [Calculator/UnitTest2](Calculator/UnitTest2)  
 function result test description
-- cal.add: int+int(positive or negative), float+float(positive or negative)  
-- cal.sub: int-int(positive or negative), float-loat(positive or negative)  
-- cal.div: int-int(positive or negative), int/0(try-catch), 0/int  
-- cal.mult: int+int(positive or negative), float+float(positive or negative)  
-- cal.factorial: 3, 1, 0, -1
+- "cal.add" test inputs: int+int(positive or negative), float+float(positive or negative)  
+- "cal.sub" test inputs: int-int(positive or negative), float-loat(positive or negative)  
+- "cal.div" test inputs: int-int(positive or negative), int/0(try-catch), 0/int  
+- "cal.mult" test inputs: int+int(positive or negative), float+float(positive or negative)  
+- "cal.factorial" test inputs: 3, 1, 0, -1
 
 # c++-unit-test Practice 2: Simple User ManageMetn Project Test
 directory: [ManageMentApplication/ManageMentApplication](ManageMentApplication/ManageMentApplication)  
