@@ -31,8 +31,9 @@ function result test description
 - isVaild_Identity(): verify a Social Security Number foramt, if the SSN format is "[0 9]{6}-[0 9]{6}", return true
 
 ### doxygen result
-directory: ProjectReport/Doxygen/html  
+directory: [ProjectReport/Doxygen_html](ProjectReport/Doxygen_html)   
 function result test description
 
 ### etc
+directory: [ProjectReport](ProjectReport)   
 detailed information is in ProjectReport directory
