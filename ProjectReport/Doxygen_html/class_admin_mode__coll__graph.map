@@ -1,0 +1,5 @@
+<map id="AdminMode" name="AdminMode">
+<area shape="rect" id="node1" title=" " alt="" coords="29,351,185,589"/>
+<area shape="rect" id="node2" href="$struct_admin_info.html" title=" " alt="" coords="5,108,84,185"/>
+<area shape="rect" id="node3" href="$class_server_info.html" title=" " alt="" coords="108,5,232,288"/>
+</map>

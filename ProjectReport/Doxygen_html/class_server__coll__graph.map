@@ -1,0 +1,6 @@
+<map id="Server" name="Server">
+<area shape="rect" id="node1" title=" " alt="" coords="83,351,219,589"/>
+<area shape="rect" id="node2" href="$struct_user_info.html" title=" " alt="" coords="5,71,84,222"/>
+<area shape="rect" id="node3" href="$struct_admin_info.html" title=" " alt="" coords="112,108,191,185"/>
+<area shape="rect" id="node4" href="$class_server_info.html" title=" " alt="" coords="215,5,339,288"/>
+</map>
